@@ -1,6 +1,10 @@
-# ⚡ Speed Test CLI
+# ⚡ Speed Test App!
 
-A simple and lightweight command-line tool to measure your internet **download** and **upload** speeds using Python and the `speedtest` module. Optionally, you can convert it into a standalone `.exe` with a custom icon.
+<p align="center"><img src="https://github.com/user-attachments/assets/52c44ac1-81b1-4ad5-8afe-08e0a5305f04" alt="speedmeter app" width="200"></p>
+
+
+
+A simple and lightweight app to measure your internet **download** and **upload** speeds using Python and the `speedtest` module. Optionally, you can convert it into a standalone `.exe` with a custom icon.
 
 ---
 
@@ -22,7 +26,7 @@ A simple and lightweight command-line tool to measure your internet **download**
 Install dependencies:
 
 ```bash
-pip install speedtest-cli pyinstaller
+pip install pyinstaller
 ```
 
 ---
